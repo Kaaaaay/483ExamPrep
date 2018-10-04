@@ -1,0 +1,9 @@
+﻿Method Specification
+
+Purpose:		Determines if a particular value is contained in an array of decimals
+Name:			Contains
+Has receiver?	No; it is a static method.
+Inputs:			Array of decimals, decimal value
+Output:			Boolean
+Side effects: 	None
+Error case:		Array must not be null
